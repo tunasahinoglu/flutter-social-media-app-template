@@ -1,0 +1,78 @@
+{
+    "app": {
+        "name": "Template"
+    },
+    "home": {
+        "no_data": "No data"
+    },
+    "profile":{
+        "bio":"Biography",
+        "edit_profile":"Edit Profile",
+        "save":"Save"
+    },
+    "settings": {
+        "settings": "Settings",
+        "language": "Language",
+        "logout": "Logout",
+        "change_password": "Change password",
+        "title": "Reset Password",
+        "email_label": "Email",
+        "send_button": "Send Password Reset Email",
+        "email_sent": "Password reset email sent\nDon't forget to check spam box!",
+        "error": "Failed to send password reset email: {error}"
+    },
+    "nav_bar": {
+        "home": "Home",
+        "profile": "Profile"
+    },
+    "connection": {
+        "no_connection": "'No connection...'"
+    },
+    "auth": {
+        "fill_the_fields": "Please fill the fields",
+        "error_in_form": "Error in form",
+        "loading": "Loading...",
+        "create_account": "Create an account!",
+        "username": "Username",
+        "email": "Email",
+        "password": "Password",
+        "passwords_do_not_match": "Passwords do not match",
+        "confirm_password": "Confirm password",
+        "register": "Register",
+        "already_have_an_account": "Already have an account?",
+        "sign_in": "Sign in",
+        "sign_in_to_account": "Sign in to your account",
+        "enter_username": "Please enter your username",
+        "enter_password": "Please enter your password",
+        "dont_have_an_account": "Don't have an account?",
+        "enter_email": "Please enter an email",
+        "enter_valid_email": "Enter a valid email address",
+        "username_exists": "Username already exists.",
+        "email_exists": "Email already exists.",
+        "error_adding_user": "Error adding user: {error}",
+        "registration_error": "Error during registration: {error}",
+        "user_not_exist": "User does not exist.",
+        "incorrect_credentials": "Incorrect password or username.",
+        "username_not_found": "Username not found.",
+        "sign_in_error": "Error during sign in: {error}",
+        "fetch_users_error": "Error fetching users: {error}",
+        "forgot_password": "Forgot password",
+        "email_not_verified": "Email not verified.",
+        "verification_check_error": "Verification check error: {{error}}",
+        "error_sending_verification": "Verification email could not be sent: {{error}}",
+        "resend_verification_email": "Resend Verification Email",
+        "verification_email_not_received": "Verification email not received.",
+        "verification_pending": "Email verification pending.",
+        "verification_email_sent": "Verification email sent."
+    },
+    "onboarding": {
+        "title1": "Welcome to the App",
+        "description1": "This is a sample description for the first page.",
+        "title2": "Explore Features",
+        "description2": "Discover all the features of our application.",
+        "title3": "Get Started",
+        "description3": "Let's get started!",
+        "next": "Next",
+        "getStarted": "Get Started"
+    }
+}

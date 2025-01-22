@@ -1,0 +1,78 @@
+{
+    "app": {
+        "name": "Template"
+    },
+    "home": {
+        "no_data": "Henüz veri yok"
+    },
+    "profile":{
+        "bio": "Biyografi",
+        "edit_profile":"Profili Düzenle",
+        "save":"Kaydet"
+    },
+    "settings": {
+        "settings": "Ayarlar",
+        "language": "Dil",
+        "logout": "Oturumdan çık",
+        "change_password": "Şifreyi değiştir",
+        "title": "Şifreyi Sıfırla",
+        "email_label": "E-posta",
+        "send_button": "Şifre Sıfırlama E-postası Gönder",
+        "email_sent": "Şifre sıfırlama e-postası gönderildi!\nSpam kutusunu kontrol etmeyi unutma!",
+        "error": "Şifre sıfırlama e-postası gönderilemedi: {error}"
+    },
+    "nav_bar": {
+        "home": "Anasayfa",
+        "profile": "Profil"
+    },
+    "connection": {
+        "no_connection": "Bağlantı yok..."
+    },
+    "auth": {
+        "fill_the_fields": "Alanları doldurunuz.",
+        "error_in_form": "Hata",
+        "loading": "Yükleniyor...",
+        "create_account": "Hemen kayıt ol!",
+        "username": "Kullanıcı adı",
+        "email": "Email",
+        "password": "Şifre",
+        "passwords_do_not_match": "Şifreler eşleşmiyor",
+        "confirm_password": "Şifreyi onayla",
+        "register": "Kayıt ol",
+        "already_have_an_account": "Zaten hesabın var mı?",
+        "sign_in": "Giriş yap",
+        "sign_in_to_account": "Hesaba giriş yap",
+        "enter_username": "Kullanıcı adını giriniz",
+        "enter_password": "Şifreyi giriniz",
+        "dont_have_an_account": "Hesabın yok mu?",
+        "enter_email": "Email adresinizi girin",
+        "enter_valid_email": "Geçerli bir email girin",
+        "username_exists": "Kullanıcı adı zaten mevcut.",
+        "email_exists": "E-posta zaten mevcut.",
+        "error_adding_user": "Kullanıcı ekleme hatası: {error}",
+        "registration_error": "Kayıt sırasında hata: {error}",
+        "user_not_exist": "Kullanıcı mevcut değil.",
+        "incorrect_credentials": "Yanlış kullanıcı adı veya şifre.",
+        "username_not_found": "Kullanıcı adı bulunamadı.",
+        "sign_in_error": "Giriş sırasında hata: {error}",
+        "fetch_users_error": "Kullanıcılar alınırken hata: {error}",
+        "forgot_password": "Şifremi unuttum",
+        "email_not_verified": "E-posta doğrulanmadı.",
+        "verification_check_error": "Doğrulama kontrol hatası: {{error}}",
+        "error_sending_verification": "Doğrulama e-postası gönderilemedi: {{error}}",
+        "resend_verification_email": "Doğrulama E-postasını Yeniden Gönder",
+        "verification_email_not_received": "E-posta doğrulama e-postası alınamadı.",
+        "verification_pending": "E-posta doğrulama bekleniyor.",
+        "verification_email_sent": "E-posta doğrulama gönderildi."
+    },
+    "onboarding": {
+        "title1": "Uygulamaya Hoş Geldin!",
+        "description1": "İlk sayfa için örnek bir açıklama.",
+        "title2": "Özellikleri Keşfedin",
+        "description2": "Uygulamanın tüm özelliklerini keşfedin.",
+        "title3": "Başlayalım!",
+        "description3": "Hadi başlayalım!",
+        "next": "İleri",
+        "getStarted": "Başla"
+    }
+}
